@@ -15,5 +15,5 @@ Editor Integration: Seamlessly integrates with the Unity Editor, enhancing the d
 3 - Open Unity, and the Hierarchy will now display custom icons for GameObjects based on their attached components.
 4 - This script improves the workflow and usability of the Unity Editor by providing immediate visual cues about the components in your scene, making it easier to manage and navigate complex projects.
 
-#![image](https://github.com/user-attachments/assets/f143ae91-d8df-4fbc-828d-7aa484dc10b4)
+# ![image](https://github.com/user-attachments/assets/f143ae91-d8df-4fbc-828d-7aa484dc10b4)
 
