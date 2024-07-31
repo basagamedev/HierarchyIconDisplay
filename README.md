@@ -1,12 +1,13 @@
 # Hierarchy Icons for Unity
 
-This Unity Editor script, written in C#, replaces the default box icons in the Unity Hierarchy with icons that represent the components attached to the GameObjects. By placing this script inside the Editor folder, it allows for a more intuitive and visually informative Hierarchy view, helping developers quickly identify the types of components each GameObject is using.
+This Unity Editor script, written in C#, replaces the default box icons in the Unity Hierarchy with icons that represent the components attached to the GameObjects. 
+By placing this script inside the Editor folder, it allows for a more intuitive and visually informative Hierarchy view, helping developers quickly identify the types of components each GameObject is using.
 
 # Features:
 
-Dynamic Icon Replacement: Automatically updates the icons in the Hierarchy to reflect the primary components attached to each GameObject.
-Component-Based Icons: Uses specific icons for common components like Rigidbody, Collider, AudioSource, Camera, and more.
-Editor Integration: Seamlessly integrates with the Unity Editor, enhancing the default Hierarchy view without affecting the runtime behavior.
+- **Dynamic Icon Replacement:** Automatically updates the icons in the Hierarchy to reflect the primary components attached to each GameObject.
+- **Component-Based Icons:** Uses specific icons for common components like Rigidbody, Collider, AudioSource, Camera, and more.
+- **Editor Integration:** Seamlessly integrates with the Unity Editor, enhancing the default Hierarchy view without affecting the runtime behavior.
 
 # Example Usage:
 
@@ -15,5 +16,6 @@ Editor Integration: Seamlessly integrates with the Unity Editor, enhancing the d
 3 - Open Unity, and the Hierarchy will now display custom icons for GameObjects based on their attached components.
 4 - This script improves the workflow and usability of the Unity Editor by providing immediate visual cues about the components in your scene, making it easier to manage and navigate complex projects.
 
-# ![image](https://github.com/user-attachments/assets/f143ae91-d8df-4fbc-828d-7aa484dc10b4)
 
+
+![ScreenRecorderProject1](https://github.com/user-attachments/assets/37f76df8-ce84-4c0d-b122-14f739cad466)
