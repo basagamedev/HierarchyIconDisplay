@@ -15,8 +15,11 @@ By placing this script inside the Editor folder, it allows for a more intuitive 
 # Example Usage:
 
 1 - Create a new folder named Editor in the Assets directory if it doesn't already exist.
+
 2 - Place the provided C# script inside the Editor folder.
+
 3 - Open Unity, and the Hierarchy will now display custom icons for GameObjects based on their attached components.
+
 4 - This script improves the workflow and usability of the Unity Editor by providing immediate visual cues about the components in your scene, making it easier to manage and navigate complex projects.
 
 
