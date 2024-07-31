@@ -1,8 +1,7 @@
 # Hierarchy Icons for Unity
 
-<p align="center">
 ![ScreenRecorderProject1](https://github.com/user-attachments/assets/37f76df8-ce84-4c0d-b122-14f739cad466)
-</p>
+
 
 This Unity Editor script, written in C#, replaces the default box icons in the Unity Hierarchy with icons that represent the components attached to the GameObjects. 
 By placing this script inside the Editor folder, it allows for a more intuitive and visually informative Hierarchy view, helping developers quickly identify the types of components each GameObject is using.
